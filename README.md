@@ -1,8 +1,8 @@
 ## Failsafe not a great timeout
 
-###To run
+### To run
 ```./gradlew test```
 
 
-###Notes
+### Notes
 - DelegatingScheduler.schedule schedules the future
